@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/bthaman/lake_travis_water_level_viewer/sample_plots/water_level.png)
+![sample image](https://raw.githubusercontent.com/bthaman/lake_travis_water_level_viewer/sample_plots/water_level.png)
 # lake_travis_water_level_viewer
 Python script to download and plot Lake Travis water levels from 1943 to current
 

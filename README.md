@@ -1,4 +1,4 @@
-# lake_travis_viewer
+# lake_travis_water_level_viewer
 Python script to download and plot Lake Travis water levels from 1943 to current
 
 Combines historical avg daily water levels from 1943 with observations from LCRA's Hydromet website (https://hydromet.lcra.org/home/GaugeDataList/?siteNumber=3963&siteType=lakelevel)

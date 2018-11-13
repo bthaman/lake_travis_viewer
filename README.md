@@ -7,3 +7,4 @@ Combines historical avg daily water levels from 1943 with observations from LCRA
 2. Reads the .csv, converts to daily averages, and appends daily averages to historical data.
 3. The historical data is updated every time the script is run.
 4. Uses matplotlib to plot the results.
+5. Plots water level and percent full. 
